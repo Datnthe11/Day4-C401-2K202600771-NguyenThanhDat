@@ -105,5 +105,5 @@ Use this loop:
 Run your implementation with:
 
 ```bash
-python grade/scoring.py --module src.agent.graph --provider google
+python grade/scoring.py --module src.agent.graph --provider openai
 ```
